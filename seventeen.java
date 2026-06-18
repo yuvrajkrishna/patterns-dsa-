@@ -13,7 +13,7 @@ public class seventeen {
             for(char ch = 'A' ; ch<'A'+ i;ch++){
                 System.out.print(ch);
             }
-
+            
             System.out.println();
 
         }
